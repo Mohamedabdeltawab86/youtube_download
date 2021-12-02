@@ -1,6 +1,6 @@
 from pytube import Playlist
 
-link = 'https://www.youtube.com/watch?v=M3EHISMqWDI&list=PLMESC_UFcDHLrl1M1PGZ7SqR5w0100Qvq'
+link = 'https://www.youtube.com/playlist?list=PL47q1VKS2cizjqtCHynhMpLU8Ptc3xqxB'
 
 plylst = Playlist(link)
 
